@@ -1,0 +1,26 @@
+
+GET http://localhost/products
+
+###
+
+POST http://localhost/products
+Content-Type: application/json
+
+{
+    "name": "speaker",
+    "price": 50
+}
+
+###
+
+PUT http://localhost/products/4
+Content-Type: application/json
+
+{
+    "name": "tablet",
+    "price": 250
+}
+
+###
+
+DELETE http://localhost/products/4

@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "laptop",
+      "price": 500
+    },
+    {
+      "id": 2,
+      "name": "mobile phone",
+      "price": 200
+    },
+    {
+      "id": 3,
+      "name": "tablet",
+      "price": 100,
+      "createdAt": 1650816977225,
+      "updatedAt": 1650816977225
+    },
+    {
+      "name": "speaker",
+      "price": 50,
+      "createdAt": 1650817128242,
+      "updatedAt": 1650817128242,
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Petter",
+      "status": "Vip"
+    },
+    {
+      "id": 2,
+      "name": "David",
+      "status": "Normal"
+    }
+  ]
+}
